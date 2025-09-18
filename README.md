@@ -33,6 +33,7 @@ added to NeoVim like built-in LSP and [TreeSitter](https://github.com/nvim-trees
   + [nvim-notify](https://github.com/rcarriga/nvim-notify)
   + [leap.nvim](https://github.com/ggandor/leap.nvim)
   + [mini.nvim](https://github.com/echasnovski/mini.nvim)
+  + [snacks.nvim](https://github.com/folke/snacks.nvim)
   + [aerial.nvim](https://github.com/stevearc/aerial.nvim)
   + [headlines.nvim](https://github.com/lukas-reineke/headlines.nvim)
   + [rainbow-delimiters.nvim](https://github.com/HiPhish/rainbow-delimiters.nvim)
