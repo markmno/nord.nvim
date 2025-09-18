@@ -243,15 +243,15 @@ M.highlights = function(new_setting)
 		},
 
 		separator = {
-			fg = fill,
+			fg = buffer_bg,
 			bg = buffer_bg,
 		},
 		separator_selected = {
-			fg = fill,
+			fg = buffer_bg_selected,
 			bg = buffer_bg_selected,
 		},
 		separator_visible = {
-			fg = fill,
+			fg = buffer_bg_visible,
 			bg = buffer_bg_visible,
 		},
 		modified = {
