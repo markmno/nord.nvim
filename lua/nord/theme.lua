@@ -199,11 +199,11 @@ theme.loadEditor = function()
 
   -- Remove window split borders
   if vim.g.nord_borders then
-    editor.VertSplit = { fg = nord.nord2_gui }
-    editor.WinSeparator = { fg = nord.nord2_gui }
+    editor.VertSplit = { fg = nord.nord1_gui }
+    editor.WinSeparator = { fg = nord.nord1_gui }
   else
-    editor.VertSplit = { fg = nord.nord0_gui }
-    editor.WinSeparator = { fg = nord.nord0_gui }
+    editor.VertSplit = { fg = nord.nord1_gui }
+    editor.WinSeparator = { fg = nord.nord1_gui }
   end
 
   if vim.g.nord_uniform_diff_background then

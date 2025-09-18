@@ -1,12 +1,12 @@
 local colors = require("nord.colors")
 
 local setting = {
-	fill = colors.nord0_gui,
+	fill = colors.nord1_gui,
 	indicator = colors.nord9_gui,
-	bg = colors.nord0_gui,
-	buffer_bg = colors.nord0_gui,
-	buffer_bg_selected = colors.nord1_gui,
-	buffer_bg_visible = "#2A2F3A",
+	bg = colors.nord1_gui,
+	buffer_bg = colors.nord1_gui,
+	buffer_bg_selected = colors.nord2_gui,
+	buffer_bg_visible = colors.nord2_gui,
 	bold = true,
 	italic = true,
 }
